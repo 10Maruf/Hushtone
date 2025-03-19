@@ -31,16 +31,34 @@ Hushtone is a professional audio steganography tool that lets you securely hide 
 
 ---
 
-## 🚀 How to Run (Jar Only)
-
-1. **Download the Jar File:**  
-   Get the latest release of Hushtone from the [Releases](https://github.com/10Maruf/Hushtone.git) page.
-
-2. **Run the Application:**  
-   Open a terminal (or Command Prompt) and execute:
+1. **Fetch the Hushtone Folder:**  
+   Clone or download the Hushtone folder from GitHub:
    ```sh
-   java --module-path "C:\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar Hushtone.jar
+   git clone https://github.com/10Maruf/Hushtone.git
    
+2. **Download Java:**  
+   Visit the [Official Java Website](https://www.oracle.com/java/technologies/downloads/) to download and install Java (version 17 or later).
+
+
+3. **Set Up Environment Variables (if not already set):**  
+   **On Windows:**  
+   Open Command Prompt and set your `JAVA_HOME` to the JDK installation folder, then add the JDK `bin` directory to your `PATH`:
+      ```sh
+      set JAVA_HOME=C:\Program Files\Java\jdk-17
+      set PATH=%JAVA_HOME%\bin;%PATH%
+      ```
+
+4. **Open a Terminal:**  
+   Navigate to the root of the Hushtone folder (the folder containing your jar and the lib folder):
+     ```sh
+      cd path/to/Hushtone
+
+5. **Run the Application:**  
+   Execute the following command in the terminal:
+     ```sh
+     java --module-path "lib\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar HushCrypto.jar
+
+**Note: Do not run the .exe file.**
 
 
 ## 🎯 Usage  
