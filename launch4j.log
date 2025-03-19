@@ -1,0 +1,38 @@
+
+
+Version:	3.50
+CmdLine:	E:\.Programming\HushTone\Hushtone.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\.Programming\HushTone\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-24\bin
+Check launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-24\bin\javac.exe (OK)
+Version string: 1.024.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe
+Launcher args:	--module-path "C:\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar "E:\.Programming\HushTone\Hushtone.exe"
+Args length:	127/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\.Programming\HushTone\Hushtone.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\.Programming\HushTone\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-24\bin
+Check launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-24\bin\javac.exe (OK)
+Version string: 1.024.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe
+Launcher args:	--module-path "C:\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar "E:\.Programming\HushTone\Hushtone.exe"
+Args length:	127/32768 chars
+Exit code:	0
